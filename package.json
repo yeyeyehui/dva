@@ -1,0 +1,35 @@
+{
+  "name": "6.dva",
+  "version": "1.2.0",
+  "description": "The base template for Create React App.",
+  "license": "MIT",
+  "dependencies": {
+    "dva": "^2.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.2.1",
+    "redux-first-history": "^5.1.1",
+    "redux-saga": "^1.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
